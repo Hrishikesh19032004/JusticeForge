@@ -1,0 +1,44 @@
+:root {
+    --bg-color: black;
+    --text-color: white;
+    --button-color: #ee9b00;
+    --button-text-color: black;
+}
+
+
+.section-hero {
+    background-color: var(--bg-color); /* Ensure hero section background is also black */
+    color: var(--text-color); /* Ensure text color within hero section is white */
+    padding: 5rem 0;
+}
+
+.btn-group .primary-btn {
+    background-color: #ee9b00; /* Button color #ee9b00 */
+    color: var(--button-text-color); /* Button text color black */
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+.btn-group .secondary-btn {
+    border: 2px solid var(--button-color); /* Outline button color #ee9b00 */
+    color: var(--button-color); /* Text color for the secondary button */
+    padding: 1rem 2rem;
+    border-radius: 0.5rem;
+    background: #ee9b00;
+    cursor: pointer;
+}
+
+.hero-subtitle,
+.hero-content h1,
+.hero-content p,
+.law-text {
+    color: var(--text-color); /* White text color */
+}
+
+.hero-images img {
+    width: 100%;
+    height: auto;
+    display: block;
+}

@@ -1,0 +1,81 @@
+:root {
+    --text-color: #333; /* Change to a darker text color */
+    --bg-light: #f8f9fa; /* Light background color for sections */
+    --bg-dark: #e9ecef; /* Light grey background for the section */
+    --light-text: #000; /* Dark text color for readability */
+    --light-darker1: #ccc; /* Light grey for borders or secondary elements */
+    --active: #007bff; /* Active element color (blue) */
+    --button: #007bff; /* Button color (blue) */
+}
+
+.section-reverse {
+    padding: 5rem 2rem;
+    background-color: var(--bg-dark);
+    color: var(--light-text);
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+}
+
+.grid-two-cols-reverse {
+    grid-template-columns: 1fr 1fr;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.subtitle {
+    font-size: 1.8rem;
+    color: var(--text-color); /* Updated text color */
+    margin-bottom: 1rem;
+}
+
+h1 {
+    font-size: 4rem;
+    margin-bottom: 2rem;
+    color: var(--text-color); /* Updated heading color */
+}
+
+p {
+    font-size: 1.6rem;
+    margin-bottom: 2rem;
+}
+
+.stats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.stat-item {
+    text-align: center;
+    flex: 1;
+}
+
+.stat-number {
+    font-size: 1.7rem;
+    color: var(--button); /* Button color for statistics */
+}
+
+.stat-text {
+    font-size: 1rem;
+    color: var(--text-color); /* Updated text color for statistics */
+}
+
+.image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    object-fit: contain;
+}
+
+.image img {
+    max-width: 100%;
+    height: auto;
+}

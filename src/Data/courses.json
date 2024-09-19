@@ -1,0 +1,1032 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "courseName": "Introduction to Constitutional Law",
+      "rating": 4.9,
+      "image": "Constitution.jpg",
+      "description": "Explore the foundational principles of constitutional law.",
+      "detailedInfo": "This course covers the structure of the Constitution, fundamental rights, and the role of the judiciary in upholding constitutional principles.",
+      "professor": "Dr. Emily Davis",
+      "subtopics": [
+        {
+          "name": "Understanding the Constitution",
+          "description": "Overview of the Constitution's structure and significance."
+        },
+        {
+          "name": "Fundamental Rights and Duties",
+          "description": "Exploring the rights and responsibilities of citizens."
+        },
+        {
+          "name": "Judicial Review",
+          "description": "The role of the judiciary in interpreting and protecting the Constitution."
+        },
+        {
+          "name": "Separation of Powers",
+          "description": "Understanding the distribution of power between different branches of government."
+        },
+        {
+          "name": "Constitutional Amendments",
+          "description": "The process of amending the Constitution and significant amendments."
+        },
+        {
+          "name": "Federalism",
+          "description": "The division of power between the central and state governments."
+        },
+        {
+          "name": "Directive Principles of State Policy",
+          "description": "Guidelines for the government to achieve social and economic welfare."
+        },
+        {
+          "name": "Case Studies in Constitutional Law",
+          "description": "Analysis of landmark constitutional law cases."
+        },
+        {
+          "name": "Emergency Provisions",
+          "description": "Understanding the special provisions during emergencies."
+        },
+        {
+          "name": "Role of Constitutional Bodies",
+          "description": "The significance of bodies like the Election Commission, CAG, and others."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "courseName": "Criminal Law Fundamentals",
+      "rating": 4.8,
+      "image": "CriminalLaw.jpg",
+      "description": "Delve into the world of criminal law and the justice system.",
+      "detailedInfo": "This course covers key aspects of criminal law, including criminal liability, defenses, and the criminal justice system.",
+      "professor": "Prof. Michael Thompson",
+      "subtopics": [
+        {
+          "name": "Introduction to Criminal Law",
+          "description": "Understanding the basic principles of criminal liability."
+        },
+        {
+          "name": "Elements of a Crime",
+          "description": "Breaking down actus reus, mens rea, and causation."
+        },
+        {
+          "name": "Types of Crimes",
+          "description": "Overview of different types of crimes, including theft, assault, and murder."
+        },
+        {
+          "name": "Criminal Defenses",
+          "description": "Common defenses in criminal cases, including self-defense and insanity."
+        },
+        {
+          "name": "Criminal Procedure",
+          "description": "Understanding the procedures from investigation to trial."
+        },
+        {
+          "name": "Rights of the Accused",
+          "description": "Exploring the constitutional protections for individuals accused of crimes."
+        },
+        {
+          "name": "Sentencing and Punishment",
+          "description": "How sentences are determined and types of punishment."
+        },
+        {
+          "name": "Juvenile Justice",
+          "description": "Special considerations in criminal law for minors."
+        },
+        {
+          "name": "Victim Rights",
+          "description": "Understanding the rights and protections for victims in the criminal justice system."
+        },
+        {
+          "name": "Notable Criminal Law Cases",
+          "description": "Study of landmark criminal cases and their impact on the law."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "courseName": "Corporate Law Essentials",
+      "rating": 4.7,
+      "image": "CorporateLaw.jpg",
+      "description": "Learn the legal aspects of running a corporation.",
+      "detailedInfo": "A comprehensive course covering corporate governance, mergers, acquisitions, and regulatory compliance.",
+      "professor": "Dr. Rachel Turner",
+      "subtopics": [
+        {
+          "name": "Introduction to Corporate Law",
+          "description": "Understanding the basic principles of corporate law."
+        },
+        {
+          "name": "Corporate Governance",
+          "description": "The structure and responsibilities of corporate boards and executives."
+        },
+        {
+          "name": "Mergers and Acquisitions",
+          "description": "The legal process and implications of mergers and acquisitions."
+        },
+        {
+          "name": "Securities Regulation",
+          "description": "Overview of laws regulating securities and stock exchanges."
+        },
+        {
+          "name": "Corporate Financing",
+          "description": "Understanding legal issues related to raising capital and financing operations."
+        },
+        {
+          "name": "Shareholder Rights",
+          "description": "Exploring the rights and protections for shareholders."
+        },
+        {
+          "name": "Corporate Liability",
+          "description": "Legal responsibilities of corporations and their leaders."
+        },
+        {
+          "name": "International Corporate Law",
+          "description": "Understanding the global implications of corporate law."
+        },
+        {
+          "name": "Regulatory Compliance",
+          "description": "Ensuring that corporations comply with relevant laws and regulations."
+        },
+        {
+          "name": "Corporate Law Case Studies",
+          "description": "Analysis of significant corporate law cases and their outcomes."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "courseName": "Intellectual Property Law",
+      "rating": 4.9,
+      "image": "IPLaw.jpg",
+      "description": "Master the principles of intellectual property law.",
+      "detailedInfo": "A deep dive into the protection of creations of the mind, including patents, copyrights, and trademarks.",
+      "professor": "Prof. Sarah Lewis",
+      "subtopics": [
+        {
+          "name": "Introduction to Intellectual Property",
+          "description": "Overview of intellectual property rights and their importance."
+        },
+        {
+          "name": "Patents",
+          "description": "Understanding the process of obtaining and protecting patents."
+        },
+        {
+          "name": "Copyrights",
+          "description": "Exploring copyright law and the protection of creative works."
+        },
+        {
+          "name": "Trademarks",
+          "description": "How to register and protect trademarks."
+        },
+        {
+          "name": "Trade Secrets",
+          "description": "Protection of confidential business information."
+        },
+        {
+          "name": "International IP Law",
+          "description": "Understanding the global framework for intellectual property protection."
+        },
+        {
+          "name": "IP Infringement and Remedies",
+          "description": "What constitutes IP infringement and legal remedies available."
+        },
+        {
+          "name": "Technology and IP",
+          "description": "The impact of technology on intellectual property law."
+        },
+        {
+          "name": "IP Licensing",
+          "description": "How to negotiate and draft IP licensing agreements."
+        },
+        {
+          "name": "Famous IP Cases",
+          "description": "Study of landmark intellectual property law cases."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "courseName": "Family Law and Marriage",
+      "rating": 4.6,
+      "image": "FamilyLaw.jpg",
+      "description": "Explore the legal aspects of family relationships.",
+      "detailedInfo": "This course covers key topics in family law, including marriage, divorce, child custody, and adoption.",
+      "professor": "Dr. Steven Harris",
+      "subtopics": [
+        {
+          "name": "Introduction to Family Law",
+          "description": "Understanding the basic principles of family law."
+        },
+        {
+          "name": "Marriage and Civil Unions",
+          "description": "Legal requirements and implications of marriage and civil unions."
+        },
+        {
+          "name": "Divorce and Separation",
+          "description": "The legal process of divorce and the division of assets."
+        },
+        {
+          "name": "Child Custody and Support",
+          "description": "Understanding the laws related to child custody and support."
+        },
+        {
+          "name": "Adoption Laws",
+          "description": "Overview of the legal process of adoption."
+        },
+        {
+          "name": "Domestic Violence",
+          "description": "Legal protections against domestic violence and abuse."
+        },
+        {
+          "name": "Paternity and Parental Rights",
+          "description": "Establishing paternity and understanding parental rights."
+        },
+        {
+          "name": "Alimony and Spousal Support",
+          "description": "Legal considerations for spousal support after divorce."
+        },
+        {
+          "name": "Surrogacy and Reproductive Law",
+          "description": "The legal aspects of surrogacy and reproductive technology."
+        },
+        {
+          "name": "Notable Family Law Cases",
+          "description": "Study of significant family law cases and their impact."
+        }
+
+        
+      ]
+    },
+    {
+      "id": 6,
+      "courseName": "Civil Rights Law",
+      "rating": 4.7,
+      "image": "CivilRightsLaw.jpg",
+      "description": "Explore the evolution and application of civil rights laws.",
+      "detailedInfo": "This course delves into civil rights laws, focusing on landmark legislation, historical cases, and the ongoing struggle for equality.",
+      "professor": "Dr. Emily Harris",
+      "subtopics": [
+        {
+          "name": "Historical Overview",
+          "description": "Study the origins and development of civil rights laws."
+        },
+        {
+          "name": "Major Civil Rights Legislation",
+          "description": "Analysis of key laws like the Civil Rights Act of 1964."
+        },
+        {
+          "name": "Landmark Supreme Court Cases",
+          "description": "Examine important cases impacting civil rights."
+        },
+        {
+          "name": "Discrimination and Equality",
+          "description": "Understanding various forms of discrimination and equality measures."
+        },
+        {
+          "name": "Civil Rights and the Constitution",
+          "description": "Explore how civil rights are protected by the Constitution."
+        },
+        {
+          "name": "Affirmative Action",
+          "description": "Discussion on policies and their implications."
+        },
+        {
+          "name": "Civil Rights in the Workplace",
+          "description": "Explore workplace discrimination and legal remedies."
+        },
+        {
+          "name": "Voting Rights",
+          "description": "Examine the history and laws surrounding voting rights."
+        },
+        {
+          "name": "Current Issues in Civil Rights",
+          "description": "Explore contemporary civil rights issues and movements."
+        },
+        {
+          "name": "Future of Civil Rights",
+          "description": "Discuss the evolving landscape of civil rights law."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "courseName": "Corporate Law Basics",
+      "rating": 4.6,
+      "image": "CorporateLawBasics.jpg",
+      "description": "An introduction to the fundamental principles of corporate law.",
+      "detailedInfo": "This course covers the basics of corporate law, including company formation, governance, and compliance.",
+      "professor": "Ms. Laura Jenkins",
+      "subtopics": [
+        {
+          "name": "Introduction to Corporate Law",
+          "description": "Overview of corporate law and its importance."
+        },
+        {
+          "name": "Company Formation",
+          "description": "Process of forming a corporation and types of business entities."
+        },
+        {
+          "name": "Corporate Governance",
+          "description": "Roles and responsibilities of directors and officers."
+        },
+        {
+          "name": "Shareholders' Rights",
+          "description": "Examine the rights and obligations of shareholders."
+        },
+        {
+          "name": "Corporate Compliance",
+          "description": "Compliance requirements for corporations."
+        },
+        {
+          "name": "Mergers and Acquisitions",
+          "description": "Legal aspects of corporate mergers and acquisitions."
+        },
+        {
+          "name": "Corporate Finance",
+          "description": "Understanding corporate finance and capital structure."
+        },
+        {
+          "name": "Corporate Litigation",
+          "description": "Types of disputes and legal procedures."
+        },
+        {
+          "name": "International Corporate Law",
+          "description": "Overview of corporate law in a global context."
+        },
+        {
+          "name": "Future Trends in Corporate Law",
+          "description": "Emerging trends and developments in corporate law."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "courseName": "Family Law",
+      "rating": 4.5,
+      "image": "FamilyLaw.jpg",
+      "description": "Study the laws governing family relationships and issues.",
+      "detailedInfo": "This course provides an in-depth look at family law, covering marriage, divorce, child custody, and related legal matters.",
+      "professor": "Dr. Rachel Green",
+      "subtopics": [
+        {
+          "name": "Introduction to Family Law",
+          "description": "Overview of family law principles and statutes."
+        },
+        {
+          "name": "Marriage and Domestic Partnerships",
+          "description": "Legal aspects of marriage and domestic partnerships."
+        },
+        {
+          "name": "Divorce and Separation",
+          "description": "Procedures and legal considerations in divorce."
+        },
+        {
+          "name": "Child Custody and Support",
+          "description": "Legal issues related to child custody and support."
+        },
+        {
+          "name": "Adoption and Foster Care",
+          "description": "Legal processes and issues in adoption and foster care."
+        },
+        {
+          "name": "Domestic Violence",
+          "description": "Legal protections and remedies for domestic violence."
+        },
+        {
+          "name": "Property Division",
+          "description": "How property is divided in family law cases."
+        },
+        {
+          "name": "Spousal Support",
+          "description": "Legal aspects of spousal support and alimony."
+        },
+        {
+          "name": "Family Law and the Constitution",
+          "description": "Constitutional issues in family law cases."
+        },
+        {
+          "name": "Emerging Trends in Family Law",
+          "description": "Current trends and developments in family law."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "courseName": "Intellectual Property Law",
+      "rating": 4.8,
+      "image": "IntellectualPropertyLaw.jpg",
+      "description": "Explore the protection and enforcement of intellectual property rights.",
+      "detailedInfo": "This course covers various aspects of intellectual property law, including patents, trademarks, copyrights, and trade secrets.",
+      "professor": "Prof. John Smith",
+      "subtopics": [
+        {
+          "name": "Introduction to Intellectual Property",
+          "description": "Overview of intellectual property rights and types."
+        },
+        {
+          "name": "Patents",
+          "description": "Understanding patents and the patent application process."
+        },
+        {
+          "name": "Trademarks",
+          "description": "Protection of brand names, logos, and trademarks."
+        },
+        {
+          "name": "Copyrights",
+          "description": "Rights and protection of creative works under copyright law."
+        },
+        {
+          "name": "Trade Secrets",
+          "description": "Protection of confidential business information."
+        },
+        {
+          "name": "Intellectual Property Enforcement",
+          "description": "Legal remedies and enforcement of intellectual property rights."
+        },
+        {
+          "name": "International Intellectual Property",
+          "description": "Global aspects of intellectual property protection."
+        },
+        {
+          "name": "Digital Intellectual Property",
+          "description": "Issues related to intellectual property in the digital age."
+        },
+        {
+          "name": "Intellectual Property and Innovation",
+          "description": "Role of intellectual property in fostering innovation."
+        },
+        {
+          "name": "Future Trends in Intellectual Property",
+          "description": "Emerging trends and challenges in intellectual property law."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "courseName": "International Law",
+      "rating": 4.6,
+      "image": "InternationalLaw.jpg",
+      "description": "Study the principles and practices of international law.",
+      "detailedInfo": "This course explores the framework of international law, including treaties, international organizations, and global legal issues.",
+      "professor": "Dr. Sandra Lee",
+      "subtopics": [
+        {
+          "name": "Introduction to International Law",
+          "description": "Overview of international law and its sources."
+        },
+        {
+          "name": "International Treaties and Agreements",
+          "description": "Understanding treaties and their role in international law."
+        },
+        {
+          "name": "International Organizations",
+          "description": "Roles and functions of international organizations like the UN."
+        },
+        {
+          "name": "Human Rights and International Law",
+          "description": "Exploring human rights protections under international law."
+        },
+        {
+          "name": "International Dispute Resolution",
+          "description": "Mechanisms for resolving international disputes."
+        },
+        {
+          "name": "International Trade Law",
+          "description": "Regulations and agreements governing international trade."
+        },
+        {
+          "name": "International Criminal Law",
+          "description": "Laws dealing with international crimes and tribunals."
+        },
+        {
+          "name": "State Sovereignty and International Law",
+          "description": "Balance between state sovereignty and international obligations."
+        },
+        {
+          "name": "Global Environmental Law",
+          "description": "International legal frameworks for environmental protection."
+        },
+        {
+          "name": "Future of International Law",
+          "description": "Emerging issues and future directions in international law."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "courseName": "Legal Ethics",
+      "rating": 4.7,
+      "image": "LegalEthics.jpg",
+      "description": "Examine the ethical standards and dilemmas faced by legal professionals.",
+      "detailedInfo": "This course covers the ethical principles governing legal practice, including professional responsibility, conflicts of interest, and ethical decision-making.",
+      "professor": "Prof. David Brown",
+      "subtopics": [
+        {
+          "name": "Introduction to Legal Ethics",
+          "description": "Overview of ethics in the legal profession."
+        },
+        {
+          "name": "Professional Responsibility",
+          "description": "Duties and responsibilities of legal professionals."
+        },
+        {
+          "name": "Conflicts of Interest",
+          "description": "Understanding and managing conflicts of interest."
+        },
+        {
+          "name": "Confidentiality and Privilege",
+          "description": "Legal and ethical considerations of client confidentiality."
+        },
+        {
+          "name": "Ethical Decision-Making",
+          "description": "Frameworks for making ethical decisions in legal practice."
+        },
+        {
+          "name": "Legal Malpractice",
+          "description": "Exploring issues related to legal malpractice and professional liability."
+        },
+        {
+          "name": "Regulation of Legal Practice",
+          "description": "Rules and regulations governing legal practice."
+        },
+        {
+          "name": "Ethics in Litigation",
+          "description": "Ethical issues arising in litigation and courtroom conduct."
+        },
+        {
+          "name": "Ethics in Corporate Practice",
+          "description": "Ethical considerations in corporate legal practice."
+        },
+        {
+          "name": "Emerging Issues in Legal Ethics",
+          "description": "New challenges and developments in legal ethics."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "courseName": "Environmental Law",
+      "rating": 4.6,
+      "image": "EnvironmentalLaw.jpg",
+      "description": "Study the legal frameworks and regulations related to environmental protection.",
+      "detailedInfo": "This course covers environmental law, including regulations, policies, and legal issues affecting environmental protection and sustainability.",
+      "professor": "Dr. Laura Adams",
+      "subtopics": [
+        {
+          "name": "Introduction to Environmental Law",
+          "description": "Overview of environmental laws and regulations."
+        },
+        {
+          "name": "Environmental Regulations",
+          "description": "Key regulations affecting environmental protection."
+        },
+        {
+          "name": "Environmental Policy",
+          "description": "Study of policies and their impact on the environment."
+        },
+        {
+          "name": "Pollution Control",
+          "description": "Laws and regulations related to pollution control."
+        },
+        {
+          "name": "Wildlife Protection",
+          "description": "Legal measures for protecting wildlife and natural habitats."
+        },
+        {
+          "name": "Climate Change Law",
+          "description": "Legal frameworks addressing climate change and global warming."
+        },
+        {
+          "name": "Environmental Justice",
+          "description": "Ensuring fair treatment and involvement of all people in environmental decisions."
+        },
+        {
+          "name": "International Environmental Law",
+          "description": "Global agreements and treaties related to environmental protection."
+        },
+        {
+          "name": "Environmental Litigation",
+          "description": "Legal procedures and cases related to environmental issues."
+        },
+        {
+          "name": "Future Trends in Environmental Law",
+          "description": "Emerging trends and future directions in environmental law."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "courseName": "Tax Law",
+      "rating": 4.5,
+      "image": "TaxLaw.jpg",
+      "description": "Learn the fundamentals of tax law and its application in various contexts.",
+      "detailedInfo": "This course provides an introduction to tax law, including tax policies, regulations, and legal issues related to taxation.",
+      "professor": "Mr. Steven Lee",
+      "subtopics": [
+        {
+          "name": "Introduction to Tax Law",
+          "description": "Overview of tax law principles and regulations."
+        },
+        {
+          "name": "Income Tax",
+          "description": "Understanding income tax laws and regulations."
+        },
+        {
+          "name": "Corporate Tax",
+          "description": "Tax laws affecting corporations and businesses."
+        },
+        {
+          "name": "Tax Planning and Compliance",
+          "description": "Strategies for tax planning and ensuring compliance."
+        },
+        {
+          "name": "International Tax Law",
+          "description": "Global tax regulations and their impact on international transactions."
+        },
+        {
+          "name": "Tax Disputes and Litigation",
+          "description": "Legal procedures for resolving tax disputes."
+        },
+        {
+          "name": "Estate and Gift Tax",
+          "description": "Tax laws related to estates and gifts."
+        },
+        {
+          "name": "Taxation of Investments",
+          "description": "Understanding tax implications of investment income."
+        },
+        {
+          "name": "Sales and Use Tax",
+          "description": "Laws governing sales and use tax."
+        },
+        {
+          "name": "Emerging Issues in Tax Law",
+          "description": "Current trends and future challenges in tax law."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "courseName": "Banking Law",
+      "rating": 4.6,
+      "image": "BankingLaw.jpg",
+      "description": "Explore the legal principles and regulations governing the banking industry.",
+      "detailedInfo": "This course covers the legal aspects of banking, including regulations, compliance, and the role of banks in the financial system.",
+      "professor": "Dr. Rachel Green",
+      "subtopics": [
+        {
+          "name": "Introduction to Banking Law",
+          "description": "Overview of legal principles governing banks and financial institutions."
+        },
+        {
+          "name": "Bank Regulation",
+          "description": "Key regulations affecting the banking industry."
+        },
+        {
+          "name": "Banking Compliance",
+          "description": "Legal requirements and compliance issues for banks."
+        },
+        {
+          "name": "Banking and Finance",
+          "description": "Legal aspects of financial transactions and services."
+        },
+        {
+          "name": "Consumer Protection in Banking",
+          "description": "Laws protecting consumers in the banking sector."
+        },
+        {
+          "name": "International Banking Law",
+          "description": "Global regulations and agreements affecting banking."
+        },
+        {
+          "name": "Banking Disputes and Litigation",
+          "description": "Legal procedures for resolving banking disputes."
+        },
+        {
+          "name": "Anti-Money Laundering",
+          "description": "Regulations and practices to prevent money laundering."
+        },
+        {
+          "name": "Banking Ethics",
+          "description": "Ethical issues and standards in the banking industry."
+        },
+        {
+          "name": "Future of Banking Law",
+          "description": "Emerging trends and developments in banking law."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "courseName": "Medical Malpractice Law",
+      "rating": 4.7,
+      "image": "MedicalMalpracticeLaw.jpg",
+      "description": "Study the legal aspects of medical malpractice and patient rights.",
+      "detailedInfo": "This course explores medical malpractice law, including standards of care, legal remedies, and case studies.",
+      "professor": "Prof. William Brown",
+      "subtopics": [
+        {
+          "name": "Introduction to Medical Malpractice Law",
+          "description": "Overview of medical malpractice and legal standards."
+        },
+        {
+          "name": "Standards of Care",
+          "description": "Legal standards for medical professionals."
+        },
+        {
+          "name": "Medical Negligence",
+          "description": "Understanding negligence and its impact on patients."
+        },
+        {
+          "name": "Patient Rights and Remedies",
+          "description": "Legal rights of patients and available remedies."
+        },
+        {
+          "name": "Medical Malpractice Litigation",
+          "description": "Legal procedures and strategies for malpractice cases."
+        },
+        {
+          "name": "Expert Testimony in Malpractice Cases",
+          "description": "Role of expert witnesses in medical malpractice litigation."
+        },
+        {
+          "name": "Defenses in Malpractice Cases",
+          "description": "Common defenses used in medical malpractice cases."
+        },
+        {
+          "name": "Case Studies",
+          "description": "Analysis of notable medical malpractice cases."
+        },
+        {
+          "name": "Ethical Issues in Medical Malpractice",
+          "description": "Ethical considerations in malpractice litigation."
+        },
+        {
+          "name": "Future Trends in Medical Malpractice Law",
+          "description": "Emerging issues and future directions in malpractice law."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "courseName": "Cybersecurity Law",
+      "rating": 4.7,
+      "image": "CybersecurityLaw.jpg",
+      "description": "Learn about the legal aspects of cybersecurity and data protection.",
+      "detailedInfo": "This course covers laws and regulations related to cybersecurity, data protection, and privacy issues.",
+      "professor": "Ms. Julia Roberts",
+      "subtopics": [
+        {
+          "name": "Introduction to Cybersecurity Law",
+          "description": "Overview of legal issues related to cybersecurity."
+        },
+        {
+          "name": "Data Protection Regulations",
+          "description": "Key regulations governing data protection and privacy."
+        },
+        {
+          "name": "Cybercrime and Legal Response",
+          "description": "Legal approaches to combating cybercrime."
+        },
+        {
+          "name": "Cybersecurity Compliance",
+          "description": "Compliance requirements for organizations regarding cybersecurity."
+        },
+        {
+          "name": "Privacy Laws",
+          "description": "Understanding laws related to individual privacy and data protection."
+        },
+        {
+          "name": "International Cybersecurity Law",
+          "description": "Global aspects of cybersecurity and data protection laws."
+        },
+        {
+          "name": "Incident Response and Reporting",
+          "description": "Legal requirements for responding to cybersecurity incidents."
+        },
+        {
+          "name": "Ethical Issues in Cybersecurity",
+          "description": "Ethical considerations in managing cybersecurity."
+        },
+        {
+          "name": "Future Trends in Cybersecurity Law",
+          "description": "Emerging trends and future directions in cybersecurity law."
+        },
+        {
+          "name": "Case Studies in Cybersecurity Law",
+          "description": "Analysis of significant cases in cybersecurity law."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "courseName": "Intellectual Property Law",
+      "rating": 4.6,
+      "image": "IntellectualPropertyLaw.jpg",
+      "description": "Explore the legal aspects of intellectual property, including copyrights, patents, and trademarks.",
+      "detailedInfo": "This course covers intellectual property law, including key concepts, legal protections, and enforcement mechanisms for intellectual property rights.",
+      "professor": "Dr. Robert Harris",
+      "subtopics": [
+        {
+          "name": "Introduction to Intellectual Property Law",
+          "description": "Overview of intellectual property rights and protections."
+        },
+        {
+          "name": "Copyright Law",
+          "description": "Understanding copyright protection and infringement."
+        },
+        {
+          "name": "Patent Law",
+          "description": "Legal aspects of patent protection and patentability."
+        },
+        {
+          "name": "Trademark Law",
+          "description": "Legal issues related to trademarks and brand protection."
+        },
+        {
+          "name": "Trade Secrets",
+          "description": "Legal protection of trade secrets and confidential business information."
+        },
+        {
+          "name": "International Intellectual Property Law",
+          "description": "Global perspectives on intellectual property law."
+        },
+        {
+          "name": "Intellectual Property Litigation",
+          "description": "Legal procedures for enforcing intellectual property rights."
+        },
+        {
+          "name": "Ethical Issues in Intellectual Property",
+          "description": "Ethical considerations in intellectual property disputes."
+        },
+        {
+          "name": "Emerging Trends in Intellectual Property Law",
+          "description": "New developments and future directions in intellectual property law."
+        },
+        {
+          "name": "Case Studies in Intellectual Property",
+          "description": "Analysis of notable intellectual property cases."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "courseName": "Family Law",
+      "rating": 4.8,
+      "image": "FamilyLaw.jpg",
+      "description": "Study the legal issues and principles surrounding family matters.",
+      "detailedInfo": "This course covers various aspects of family law, including marriage, divorce, child custody, and domestic relations.",
+      "professor": "Prof. Susan Miller",
+      "subtopics": [
+        {
+          "name": "Introduction to Family Law",
+          "description": "Overview of family law principles and practices."
+        },
+        {
+          "name": "Marriage and Divorce",
+          "description": "Legal aspects of marriage, divorce, and separation."
+        },
+        {
+          "name": "Child Custody and Support",
+          "description": "Legal issues related to child custody and financial support."
+        },
+        {
+          "name": "Domestic Violence",
+          "description": "Legal protections and remedies for victims of domestic violence."
+        },
+        {
+          "name": "Adoption and Surrogacy",
+          "description": "Legal processes for adoption and surrogacy arrangements."
+        },
+        {
+          "name": "Spousal Support",
+          "description": "Legal considerations for spousal support and alimony."
+        },
+        {
+          "name": "Property Division",
+          "description": "Legal aspects of dividing property in family law cases."
+        },
+        {
+          "name": "Legal Issues in Non-Traditional Families",
+          "description": "Legal considerations for non-traditional family structures."
+        },
+        {
+          "name": "Family Law Mediation",
+          "description": "Alternative dispute resolution in family law cases."
+        },
+        {
+          "name": "Future Trends in Family Law",
+          "description": "Emerging issues and future developments in family law."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "courseName": "Immigration Law",
+      "rating": 4.7,
+      "image": "ImmigrationLaw.jpg",
+      "description": "Learn about the legal aspects of immigration and citizenship.",
+      "detailedInfo": "This course explores immigration law, including visa requirements, residency, and citizenship processes.",
+      "professor": "Ms. Maria Lopez",
+      "subtopics": [
+        {
+          "name": "Introduction to Immigration Law",
+          "description": "Overview of immigration law principles and procedures."
+        },
+        {
+          "name": "Visa and Residency",
+          "description": "Legal requirements and processes for obtaining visas and residency."
+        },
+        {
+          "name": "Citizenship and Naturalization",
+          "description": "Processes and requirements for obtaining citizenship."
+        },
+        {
+          "name": "Deportation and Removal",
+          "description": "Legal issues related to deportation and removal proceedings."
+        },
+        {
+          "name": "Asylum and Refugee Status",
+          "description": "Legal considerations for asylum seekers and refugees."
+        },
+        {
+          "name": "Immigration Appeals",
+          "description": "Procedures and strategies for appealing immigration decisions."
+        },
+        {
+          "name": "Immigration Law and Employment",
+          "description": "Impact of immigration law on employment and labor issues."
+        },
+        {
+          "name": "International Immigration Law",
+          "description": "Global perspectives on immigration law and policies."
+        },
+        {
+          "name": "Family-Based Immigration",
+          "description": "Legal processes for family-based immigration petitions."
+        },
+        {
+          "name": "Future Trends in Immigration Law",
+          "description": "Emerging issues and future developments in immigration law."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "courseName": "Bankruptcy Law",
+      "rating": 4.6,
+      "image": "BankruptcyLaw.jpg",
+      "description": "Explore the legal aspects of bankruptcy and insolvency.",
+      "detailedInfo": "This course covers bankruptcy law, including types of bankruptcy, procedures, and legal issues related to insolvency.",
+      "professor": "Dr. Emily Carter",
+      "subtopics": [
+        {
+          "name": "Introduction to Bankruptcy Law",
+          "description": "Overview of bankruptcy law principles and procedures."
+        },
+        {
+          "name": "Types of Bankruptcy",
+          "description": "Understanding different types of bankruptcy, including Chapter 7 and Chapter 11."
+        },
+        {
+          "name": "Bankruptcy Procedures",
+          "description": "Legal processes and steps involved in bankruptcy filings."
+        },
+        {
+          "name": "Debtor and Creditor Rights",
+          "description": "Legal rights and obligations of debtors and creditors in bankruptcy."
+        },
+        {
+          "name": "Bankruptcy and Business Insolvency",
+          "description": "Impact of bankruptcy on businesses and corporate insolvency."
+        },
+        {
+          "name": "Consumer Bankruptcy",
+          "description": "Bankruptcy processes and protections for individual consumers."
+        },
+        {
+          "name": "Reorganization and Liquidation",
+          "description": "Processes for reorganizing or liquidating assets in bankruptcy."
+        },
+        {
+          "name": "Bankruptcy Litigation",
+          "description": "Legal procedures and strategies for bankruptcy litigation."
+        },
+        {
+          "name": "International Bankruptcy Law",
+          "description": "Global aspects of bankruptcy law and cross-border insolvency."
+        },
+        {
+          "name": "Future Trends in Bankruptcy Law",
+          "description": "Emerging issues and future developments in bankruptcy law."
+        }
+      ]
+    }
+  
+
+    
+  ]
+}
+
+
+ 

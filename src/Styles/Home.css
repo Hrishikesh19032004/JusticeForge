@@ -1,0 +1,104 @@
+:root {
+    --text-color: #ced4da;
+    --bg-light: #343a40;
+    --bg-dark: black;
+    --light-text: #f8f9fa;
+    --light-darker1: #adb5bd;
+    --active: #495057;
+    --button: #005f73;
+}
+
+header {
+    background-color: transparent;
+    color: var(--light-text);
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    backdrop-filter: blur(10px);
+    height: 80px; /* Adjust this value if your navbar height differs */
+}
+
+.home-container {
+    width: 100%;
+    min-height: 100vh; /* Ensures the container is at least as tall as the viewport */
+    display: flex;
+    flex-direction: column; /* Allows content to stack vertically */
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    overflow-y: auto; /* Allows vertical scrolling */
+    padding-top: 80px; /* Ensure this matches the header height */
+    z-index: 2; /* Make sure this is higher than the background */
+}
+
+.background-image {
+    width: 100%;
+    height: auto; /* Adjust to allow scrolling if needed */
+    min-height: 100vh; /* Ensures the image covers the container */
+    background-image: url('../Images/Law.jpg');
+    background-size: cover;
+    background-position: center top; /* Adjusted for better visibility */
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1; /* Lower z-index for the background */
+}
+
+.content-overlay {
+    position: relative;
+    z-index: 2; /* Same z-index as the rest of the content */
+    text-align: center;
+    color: var(--light-text);
+    padding: 20px;
+    background: none; /* Remove the translucent background */
+    border-radius: 10px;
+    margin-top: 40vh; /* Adjust this value to position the content */
+}
+
+.content-overlay h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.content-overlay p {
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+}
+
+.input-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.input-container input {
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 5px;
+    border: 1px solid var(--light-darker1);
+    background-color: #ee9b00;
+    color: var(--light-text);
+}
+
+.input-container button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    background-color: #ee9b00;
+    color: var(--light-text);
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.input-container button:hover {
+    background-color: var(--active);
+}
+
+.shade {
+    color: var(--button);
+}

@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+  
+/* Add to your global or specific CSS file */
+.page-content {
+  min-height: 100vh; /* Ensures the content takes at least the full height of the viewport */
+  display: flex;
+  flex-direction: column;
+}
+
+*{
+  background-color: black;
+}

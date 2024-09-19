@@ -1,0 +1,139 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #121212; /* Dark background for the body */
+  color: #e0e0e0; /* Light text color */
+  margin: 0;
+  padding: 0;
+}
+
+.game {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto; /* Center the game component */
+}
+
+.scenario {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #333; /* Darker border color */
+  border-radius: 8px;
+  background-color: #1e1e1e; /* Dark background for the scenario */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5); /* Darker shadow */
+  max-width: 600px;
+  width: 100%;
+}
+
+.scenario p {
+  font-size: 18px;
+  line-height: 1.6;
+  color: #e0e0e0; /* Light text color */
+  margin-bottom: 20px;
+  text-align: justify; /* Justify text alignment */
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.options button {
+  background-color: #000000; /* Updated background color to black */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 15px 25px;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 10px 0;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.options button:hover {
+  background-color: #333333; /* Slightly lighter black for hover effect */
+}
+
+.options button:active {
+  transform: scale(0.98);
+}
+
+.go-back-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #000000; /* Updated background color to black */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.go-back-button:hover {
+  background-color: #333333; /* Slightly lighter black for hover effect */
+}
+
+.go-back-button:active {
+  transform: scale(0.98);
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .scenario {
+      width: 90%;
+      padding: 15px;
+  }
+
+  .options button {
+      width: 100%;
+      padding: 12px;
+      font-size: 14px;
+  }
+
+  .go-back-button {
+      width: 100%;
+      padding: 12px;
+      font-size: 14px;
+  }
+}
+
+.card-component {
+  border: 1px solid #333; /* Darker border color */
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.5); /* Darker shadow */
+  padding: 16px;
+  margin: 20px auto;
+  max-width: 600px;
+  background: #1e1e1e; /* Dark background for the card component */
+}
+
+.card-content {
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: justify; /* Justify text alignment */
+  color: #e0e0e0; /* Light text color */
+}
+
+.toggle-rules-button {
+  background-color: #000000; /* Updated background color to black */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 20px 0;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.toggle-rules-button:hover {
+  background-color: #333333; /* Slightly lighter black for hover effect */
+}
+
+.toggle-rules-button:active {
+  transform: scale(0.98);
+}

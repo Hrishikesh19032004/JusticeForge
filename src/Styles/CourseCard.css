@@ -1,0 +1,62 @@
+:root {
+    --text-color: #adb5bd;
+    --bg-light: #343a40; /* Gray color for the card */
+    --bg-dark: black;
+    --light-text: #f8f9fa;
+    --light-darker1: #dee2e6;
+    --active: #212529;
+    --button: #f8f9fa;
+  }
+  
+  .course-card {
+    width: 300px;
+    height: 450px;
+    background-color: var(--bg-light); /* Gray color for the card */
+    border-radius: 1rem; /* Reduced border-radius */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .course-card-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    background-color: black; /* Gray color for the card */
+    border-radius: 1rem; /* Reduced border-radius */
+  }
+  
+  .course-card-back {
+    background-color: black; /* Gray color for the card */
+    
+    border-radius: 1rem; /* Reduced border-radius */
+    text-align: center;
+  }
+  
+  .course-image {
+    width: 100%;
+    height: 150px; /* Reduced height */
+    object-fit: cover;
+    border-radius: 1rem 1rem 0 0; /* Reduced border-radius */
+  }
+  
+  .course-title, .course-title-back {
+    font-size: 1.5rem; /* Reduced font-size */
+    font-weight: 100;
+    text-align: center;
+    margin-top: 8px; /* Reduced margin */
+    margin-bottom: 8px; /* Reduced margin */
+    color: var(--light-text);
+  }
+  
+  .course-rating, .course-description, .course-detailed-info, .course-professor {
+    font-size: 0.9rem; /* Reduced font-size */
+    font-weight: 100;
+    text-align: center;
+    color: var(--light-darker1);
+    margin-bottom: 8px; /* Reduced margin */
+  }
+  
+  

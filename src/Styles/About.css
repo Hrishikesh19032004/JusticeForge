@@ -1,0 +1,87 @@
+:root {
+  --text-color: #adb5bd;
+  --bg-light: #343a40;
+  --bg-dark: black;
+  --light-text: #f8f9fa;
+  --light-darker1: #dee2e6;
+  --active: #212529;
+  --button: #f8f9fa;
+}
+
+.about-container {
+  margin-left: 3rem;
+  margin-right: 3rem;
+  margin-top: 6rem;
+}
+
+.flex-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 4rem;
+}
+
+.box-reveal {
+  flex: 1;
+  margin-right: 2rem;
+}
+
+.image-container {
+  flex: 1;
+}
+
+.image-container img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 0.5rem;
+}
+
+.team-members {
+  text-align: center;
+}
+
+.team-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.member-card {
+  width: 300px;
+  border-radius: 2rem;
+  overflow: hidden;
+  background-color: rgba(52, 58, 64, 0.7);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.member-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+
+.member-info {
+  text-align: center;
+}
+
+.social-links a {
+  margin: 0 10px;
+  color: var(--text-color);
+  text-decoration: none;
+}
+
+.about-journey {
+  text-align: center;
+  margin-top: 40px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+}

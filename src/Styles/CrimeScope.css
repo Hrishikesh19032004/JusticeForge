@@ -1,0 +1,33 @@
+.trial-tactics {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center; /* Center align text */
+  }
+  
+  .trial-tactics h1 {
+    margin-bottom: 20px;
+  }
+  
+  .trial-tactics nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .trial-tactics nav ul li {
+    margin: 20px 0; /* Space between each link */
+  }
+  
+  .trial-tactics nav ul li .game-link {
+    text-decoration: none; /* Remove underline */
+    color: white; /* Blue color for links */
+    font-size: 2rem; /* Font size for links */
+    font-weight: bold; /* Bold text */
+  }
+  
+  .trial-tactics nav ul li .game-link:hover {
+    color: white; /* Darker blue on hover */
+  }
+  

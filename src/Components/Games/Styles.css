@@ -1,0 +1,55 @@
+
+
+.App {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #1e1e1e; /* Darker background for the app */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Darker shadow */
+}
+
+.scenario-card, .evidence-card, .puzzle-card, .summary-card {
+    margin-bottom: 20px;
+    background-color: black; /* Darker card background */
+    border-radius: 8px;
+    padding: 15px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #1e1e1e !important; /* Add !important */
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.next-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #ee9b00; /* Green */
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.next-button:disabled {
+    background-color: #ee9b00; /* Grey */
+    cursor: not-allowed;
+}
+
+.rules{
+    margin-left: 21rem;
+}

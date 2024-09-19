@@ -1,0 +1,38 @@
+.trial-tactics {
+  font-family: Arial, sans-serif;
+  background-color: transparent;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center; /* Center align text */
+}
+
+.trial-tactics nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center; /* Center align the list items horizontally */
+  gap: 20px; /* Add space between the buttons */
+}
+
+.trial-tactics nav ul li {
+  margin: 0; /* Remove margin from list items */
+}
+
+.trial-tactics nav ul li button {
+  text-decoration: none; /* Remove underline */
+  color: #fff; /* Text color */
+  background-color: #ee9b00; /* Button background color */
+  font-size: 1.2rem; /* Font size for buttons */
+  font-weight: bold; /* Bold text */
+  padding: 10px 20px; /* Padding for buttons */
+  border: none; /* Remove border */
+  border-radius: 8px; /* Rounded corners */
+  cursor: pointer; /* Pointer cursor on hover */
+  transition: background-color 0.3s ease; /* Transition effect for background color */
+}
+
+.trial-tactics nav ul li button:hover {
+  background-color: #dd8500; /* Slightly darker orange on hover */
+}
